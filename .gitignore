@@ -1,0 +1,24 @@
+# Maven build directory
+target/classes
+
+# VS Code
+.vscode/
+
+# IDE files
+.idea
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Log files
+*.log
+
+# Application properties with sensitive data
+application-local.properties
+application-local.yml
+
+# OS files
+.DS_Store
+Thumbs.db
